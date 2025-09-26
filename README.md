@@ -13,11 +13,14 @@ I am a lifelong learner, currently expanding my expertise in **Selenium, Java, a
 
 ## 🛠 Skills & Tools
 
-| QA & Testing | Programming | Tools & Systems | Methodologies |
-| ------------ | ----------- | --------------- | ------------- |
-| ![Selenium](https://img.shields.io/badge/Selenium-Driver-blue) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Agile](https://img.shields.io/badge/Agile-0052CC?logo=agile&logoColor=white) |
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-000000?logo=scrumalliance&logoColor=white) |
-| ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) | ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI/CD-0F7DC2) |
+| QA & Testing | Programming & Front-End | Tools & Platforms | Systems & Others |
+| ------------ | --------------------- | ---------------- | ---------------- |
+| ![Test Automation](https://img.shields.io/badge/Test%20Automation-007ACC) | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-FF6C37) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) | ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white) |
+| ![Selenium](https://img.shields.io/badge/Selenium-Driver-blue) | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) | ![Zephyr](https://img.shields.io/badge/Zephyr-FF4B00) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) |
+| ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-4CAF50) | ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white) | ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white) |
+| ![CI/CD](https://img.shields.io/badge/CI/CD-0F7DC2) | Front-End Development | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | SQL, SOAP, Telecommunication, Service Activation, Network Management, MS Office |
+| Defect Tracking | | | |
 
 ---
 
@@ -30,10 +33,4 @@ I am a lifelong learner, currently expanding my expertise in **Selenium, Java, a
 ![Rüya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirasruya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirasruya&layout=compact&theme=radical)
 
----
 
-## 📫 Contact Me
-- Email: [tirasruya@gmail.com](mailto:tirasruya@gmail.com)  
-- LinkedIn: [linkedin.com/in/tirasruya](https://linkedin.com/in/tirasruya)  
-
----
