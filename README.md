@@ -2,20 +2,15 @@
 
 ###
 
-<p align="left">Aspiring QA Engineer | Manual & Automation Testing | Integration Experience</p>
+**Aspiring QA Engineer | Manual & Automation Testing | Integration Experience**
 
 ###
 
-<h2 align="left">🌟 About me</h2>
+# 💫 About Me:
+✨ I am a **dedicated QA Engineer** with 3.5+ years of experience as an **Integration Engineer** in the telecommunications sector.<br>🎯 I am passionate about **ensuring high-quality software through meticulous testing and automation**.<br>✨ Skilled in **manual testing, automated testing, API testing, and CI/CD pipelines**, I continuously strive to improve software reliability and user experience.<br>📚 I am a lifelong learner, currently expanding my expertise in **Selenium, Java, and Postman** to deliver robust and bug-free solutions.
 
-###
 
-<p align="left">✨ I am a **dedicated QA Engineer** with 3.5+ years of experience as an **Integration Engineer** in the telecommunications sector.  <br>🎯 I am passionate about **ensuring high-quality software through meticulous testing and automation**.  <br>✨ Skilled in **manual testing, automated testing, API testing, and CI/CD pipelines**, I continuously strive to improve software reliability and user experience.  <br>📚 I am a lifelong learner, currently expanding my expertise in **Selenium, Java, and Postman** to deliver robust and bug-free solutions.</p>
-
-###
-
-<h2 align="left">🛠 Skills & Tools</h2>
-
+# 💻 Tech Stack:
 ###
 
 <div align="left">
@@ -51,10 +46,19 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tirasruya&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tirasruya&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirasruya&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📈 GitHub Stats
-![Rüya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirasruya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirasruya&layout=compact&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tirasruya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tirasruya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tirasruya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirasruya@gmail.com) 
