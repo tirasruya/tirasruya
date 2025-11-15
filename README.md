@@ -7,7 +7,7 @@
 ###
 
 # 💫 About Me:
-✨ I am a **dedicated QA Engineer** with 3.5+ years of experience as an **Integration Engineer** in the telecommunications sector.<br>🎯 I am passionate about **ensuring high-quality software through meticulous testing and automation**.<br>✨ Skilled in **manual testing, automated testing, API testing, and CI/CD pipelines**, I continuously strive to improve software reliability and user experience.<br>📚 I am a lifelong learner, currently expanding my expertise in **Selenium, Java, and Postman** to deliver robust and bug-free solutions.
+✨ I am a **dedicated QA Engineer** with 3.5+ years of experience as an **Integration Engineer** in **Ericsson**.<br>🎯 I am passionate about **ensuring high-quality software through meticulous testing and automation**.<br>✨ Skilled in **manual testing, automated testing, API testing, and CI/CD pipelines**, I continuously strive to improve software reliability and user experience.<br>📚 I am a lifelong learner, currently expanding my expertise in **Selenium, Java, and Postman** to deliver robust and bug-free solutions.
 
 
 # 💻 Tech Stack:
